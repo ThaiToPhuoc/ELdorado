@@ -1,0 +1,104 @@
+
+animation_sapphire.png
+size: 171,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 150, 168
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 99, 35
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 99, 2
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 150, 183
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 132, 60
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 122, 2
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 137, 3
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 132, 34
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 2, 85
+  size: 88, 79
+  orig: 88, 79
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 2, 13
+  size: 70, 95
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+as
+  rotate: false
+  xy: 150, 207
+  size: 14, 58
+  orig: 14, 58
+  offset: 0, 0
+  index: -1
+as2
+  rotate: false
+  xy: 99, 62
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 166
+  size: 146, 99
+  orig: 146, 99
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: true
+  xy: 92, 92
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1

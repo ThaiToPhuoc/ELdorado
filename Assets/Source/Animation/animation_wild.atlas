@@ -1,0 +1,41 @@
+
+animation_wild.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 442, 153
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 160, 60
+  size: 149, 136
+  orig: 149, 136
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 47
+  size: 156, 149
+  orig: 156, 149
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 2
+  size: 132, 43
+  orig: 132, 43
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 311, 75
+  size: 129, 121
+  orig: 129, 121
+  offset: 0, 0
+  index: -1

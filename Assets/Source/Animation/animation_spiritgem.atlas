@@ -1,0 +1,34 @@
+
+animation_spiritgem.png
+size: 322,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 244, 28
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 244, 58
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: true
+  xy: 2, 2
+  size: 132, 135
+  orig: 132, 135
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 139, 29
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1

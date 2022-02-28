@@ -1,0 +1,97 @@
+
+animation_rubyheart.png
+size: 362,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 134, 2
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 336, 19
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 183, 2
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 230, 7
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 337, 46
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 307, 48
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 307, 25
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+a1
+  rotate: true
+  xy: 277, 74
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 134, 53
+  size: 91, 58
+  orig: 91, 58
+  offset: 0, 0
+  index: -1
+as
+  rotate: true
+  xy: 277, 24
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+as1
+  rotate: true
+  xy: 274, 57
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 5
+  size: 139, 130
+  orig: 139, 130
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: true
+  xy: 194, 55
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1

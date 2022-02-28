@@ -1,0 +1,62 @@
+
+animation_ruong.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 629, 2
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+as2
+  rotate: false
+  xy: 137, 15
+  size: 117, 93
+  orig: 117, 93
+  offset: 0, 0
+  index: -1
+as3
+  rotate: false
+  xy: 737, 29
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 386, 39
+  size: 123, 69
+  orig: 123, 69
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 839, 71
+  size: 115, 37
+  orig: 115, 37
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 511, 37
+  size: 116, 71
+  orig: 116, 71
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 256, 26
+  size: 128, 82
+  orig: 128, 82
+  offset: 0, 0
+  index: -1
+nap
+  rotate: false
+  xy: 2, 6
+  size: 133, 102
+  orig: 133, 102
+  offset: 0, 0
+  index: -1

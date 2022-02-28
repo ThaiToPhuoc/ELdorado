@@ -1,0 +1,27 @@
+
+animation_sabre.png
+size: 173,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 143, 57
+  size: 14, 63
+  orig: 14, 63
+  offset: 0, 0
+  index: -1
+as2
+  rotate: true
+  xy: 143, 24
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 2
+  size: 139, 118
+  orig: 139, 118
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+animation_cursedcoin.png
+size: 618,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: true
+  xy: 434, 23
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+as1
+  rotate: false
+  xy: 334, 25
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 4
+  size: 118, 119
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 122, 11
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+bg22
+  rotate: true
+  xy: 236, 17
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+bg3
+  rotate: false
+  xy: 563, 70
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 122, 2
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+ngoc1
+  rotate: true
+  xy: 515, 19
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1

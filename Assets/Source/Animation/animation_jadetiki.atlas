@@ -1,0 +1,83 @@
+
+animation_jadetiki.png
+size: 526,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aa
+  rotate: false
+  xy: 493, 36
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+as
+  rotate: false
+  xy: 337, 25
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+as1
+  rotate: true
+  xy: 371, 2
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+ass
+  rotate: true
+  xy: 2, 5
+  size: 118, 117
+  orig: 118, 117
+  offset: 0, 0
+  index: -1
+astrang
+  rotate: false
+  xy: 437, 4
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 121, 5
+  size: 106, 118
+  orig: 106, 118
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 437, 66
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+mat2
+  rotate: false
+  xy: 337, 2
+  size: 32, 9
+  orig: 32, 9
+  offset: 0, 0
+  index: -1
+ngoc
+  rotate: false
+  xy: 407, 9
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 337, 13
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+tuong
+  rotate: false
+  xy: 229, 5
+  size: 106, 118
+  orig: 106, 118
+  offset: 0, 0
+  index: -1
