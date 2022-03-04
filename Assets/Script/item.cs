@@ -24,6 +24,11 @@ public class item : MonoBehaviour
         this.ItemIndex = index;
     }
 
+    public int getItemIndex()
+    {
+        return this.ItemIndex;
+    }
+
     public void blur()
     {
         ItemRenderer.sprite = blurItem[ItemIndex];

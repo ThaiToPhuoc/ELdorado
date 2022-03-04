@@ -2,17 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Gamedata : MonoBehaviour
+public class gameData : MonoBehaviour
 {
-    static Gamedata _instance;
-    public static Gamedata instance
+    static gameData _instance;
+    public static gameData instance
     {
         get
         {
             if (_instance == null)
             {
-                GameObject go = new GameObject("Gamedata");
-                _instance = go.AddComponent<Gamedata>();
+                GameObject go = new GameObject("gameData");
+                _instance = go.AddComponent<gameData>();
             }
 
             return _instance;
@@ -20,4 +20,5 @@ public class Gamedata : MonoBehaviour
         }
     }
 
+    public int[,] result = new int[5,5];
 }

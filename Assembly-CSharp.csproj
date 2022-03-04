@@ -53,14 +53,14 @@
     <UnityVersion>2020.3.21f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\LevelLoader.cs" />
     <Compile Include="Assets\Script\item.cs" />
     <Compile Include="Assets\Script\column.cs" />
-    <Compile Include="Assets\Script\layoutColumn.cs" />
     <Compile Include="Assets\Script\gameData.cs" />
+    <Compile Include="Assets\Script\LevelLoader.cs" />
+    <Compile Include="Assets\Script\layoutColumn.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Spine\version.txt" />
+    <None Include="Assets\Source\Animation\animation_cay1.atlas.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -725,26 +725,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="spine-unity-examples-editor.csproj">
-      <Project>{E6D39767-84F0-9BBC-512B-04228D8136A9}</Project>
-      <Name>spine-unity-examples-editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="spine-unity.csproj">
-      <Project>{02B17ED0-54AF-F6E9-130F-6A2F29203777}</Project>
-      <Name>spine-unity</Name>
-    </ProjectReference>
-    <ProjectReference Include="spine-unity-examples.csproj">
-      <Project>{4415D85C-FDDD-3186-63DC-E8D64E1C599E}</Project>
-      <Name>spine-unity-examples</Name>
-    </ProjectReference>
-    <ProjectReference Include="spine-unity-editor.csproj">
-      <Project>{DC9E50A9-A05D-724F-77A1-76C633F6899E}</Project>
-      <Name>spine-unity-editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="spine-csharp.csproj">
-      <Project>{A0D8DFC7-9B1B-2E68-9FBA-ED5E6B3F9CD9}</Project>
-      <Name>spine-csharp</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
